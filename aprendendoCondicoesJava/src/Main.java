@@ -12,7 +12,7 @@ public class Main {
          * */
 
 
-        int idade = 20;
+        int idade = 22;
         String nome = "Igor";
 
         if (idade >= 21){
